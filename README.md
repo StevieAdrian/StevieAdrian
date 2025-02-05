@@ -1,6 +1,6 @@
 ## Hi, I'm Stevie!
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">💻 Languages:</h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div>
 
-<h3 align="left">Tools & Frameworks:</h3>
+<h3 align="left">🛠️ Tools & Frameworks:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnetcore logo"  />
@@ -30,4 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </div>
 
-![Stevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevieAdrian&hide=contribs,prs&show_icons=true&theme=radical)
+<h3 align="left">📊 GitHub Stats:</h3>
+
+![Stevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevieAdrian&hide=contribs,prs&show_icons=true&theme=radical) <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevieAdrian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
