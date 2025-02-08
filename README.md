@@ -19,8 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="laravel logo"  />
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -32,5 +34,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![Stevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevieAdrian&hide=contribs,prs&show_icons=true&theme=radical) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevieAdrian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  
+  ![](https://raw.githubusercontent.com/StevieAdrian/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/StevieAdrian/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  
+  ![](https://raw.githubusercontent.com/StevieAdrian/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/StevieAdrian/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  
+</div>
